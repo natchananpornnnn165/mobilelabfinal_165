@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407947362845",
+    "project_id": "cet165quiz",
+    "storage_bucket": "cet165quiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407947362845:android:877d4acf21b4c5f53ebcf4",
+        "android_client_info": {
+          "package_name": "com.example.cet165quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7DaaH7H9wKosDKWlgGGaj-bVgcRUbnRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
